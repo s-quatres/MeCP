@@ -1,0 +1,3 @@
+2023-02-20T14:30:00.000Z INFO my-app my-container started
+2023-02-20T14:30:01.000Z INFO my-app my-container running
+2023-02-20T14:30:02.000Z ERROR my-app my-container error occurred

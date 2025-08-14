@@ -1,0 +1,8 @@
+server:
+  port: 8080
+k8s:
+  manifests:
+    path: deployments/k8s-manifests.yaml
+log:
+  collector:
+    path: logs/loglines.log
